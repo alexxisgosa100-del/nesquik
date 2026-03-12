@@ -1,0 +1,10 @@
+body{background-color: darkblue}
+#contenedor{background-color: lightgray; width: 1200px; height: 1200px; margin: 2em auto}
+#contenido1{background-color:slategray; width: 40%; height: 35%; margin: 2em; float: left}
+#contenido2{background-color:slategray; width: 40%; height: 35%; margin: 2em; float:right}
+#encabezado{background-color: midnightblue; width: 50%; height: 10%;margin: 2em auto}
+h1{font-family: sans-serif;font-size: 3em; color: black;text-align: center}
+h2{font-family: inherit;font-size: 2em;color: darkblue;text-align: center}
+th{font-family: inherit;font-size: 2em;color:orange}
+td{font-family:fantasy;font-size: 2em;color: darkblue;text-align: center}
+#contenido3{background-color:slategray; width: 40%; height: 35%; margin: 2em;}
